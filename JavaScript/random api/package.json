@@ -4,7 +4,7 @@
   "description": "A Simple API That Sends Random Tweets From MR.NAVAL RAVIKANT TWEET-STORM",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "random-status-lines": "^1.0.4"
   },
   "devDependencies": {},
